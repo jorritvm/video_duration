@@ -6,8 +6,8 @@ import datetime
 import re
 
 # configuration
-video_folder_path = r"C:\education\VUB\Algoritmen en datastructuren 2\lectures\recordings"
-allowed_extensions = [".mp4"]
+video_folder_path = r"C:\education\VUB\Objectgericht programmeren\lectures\recordings"
+allowed_extensions = [".mp4", ".mkv"]
 
 # helper functions
 def sec2hour(n):
